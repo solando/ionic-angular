@@ -8,6 +8,7 @@ import { StatusBar } from '@ionic-native/status-bar/ngx';
 
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
+import {RecipeItemComponent} from './recipes/recipe-item/recipe-item.component';
 
 @NgModule({
   declarations: [AppComponent],
